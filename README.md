@@ -21,28 +21,40 @@ This dashboard helps the vrinda store to understand their 2022 sales better so t
 
              Month = TEXT(G2,"mmmm")
  
-- Step 9 : Go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Month" field in row and "Amount"(sum of sales) and "Order ID"(Count of orders) fields in values. 
+- Step 9 : Go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Month" field in row and "Amount"(sum of sales) and "Order ID"(Count of orders) fields in values.
+  
 ![Screenshot 2024-07-01 134414](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/fdcfb4bf-5ba9-4785-b5bf-3029e63efb92)
 
 Pivot table
 
 ![Screenshot 2024-07-01 134604](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/20a495a9-395b-4612-aa89-522bfb7fc779)
-- Step 10 : Go to pivot table analyze and insert combo pivot chart and then change the chart type "Amount" into Column and "Order ID" into line and add secondory axis for proper visualization. 
+
+- Step 10 : Go to pivot table analyze and insert combo pivot chart and then change the chart type "Amount" into Column and "Order ID" into line and add secondory axis for proper visualization.
+  
 ![Screenshot 2024-07-01 142635](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/fc34be22-9328-4957-bb27-508911d5d752)
+
 - Step 11 : To show men vs women sales, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Gender" field in row and "Amount"(sum of sales) field in values and then go to pivot table analyze and insert pie pivot chart.
+  
 ![Screenshot 2024-07-01 142651](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/7cd6c3ff-b348-46cd-a8bc-643f921b8ac2)
+
 - Step 12 : To show order status, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Status" field in row and "Order ID"(count of order) field in values and then go to pivot table analyze and insert pie pivot chart.
+  
 ![Screenshot 2024-07-01 144131](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/4002c689-13bb-4364-baef-ab3a19ae6128)
 
 - Step 13 : To show relation between age and gender based on no of orders, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Age group" field in row, "Gender" field in column and "Order ID"(percentage of orders) field in values and then go to pivot table analyze and insert clustered bar pivot chart.
+  
 ![Screenshot 2024-07-01 151120](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/e0cbcd0d-5a8b-4511-8bcd-2591ec0fd2de)
 
 - Step 14 : To show top 10 states according to sales, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "states" field in row and "Amount"(sum of sales) field in values and then go to pivot table analyze and insert bar pivot chart.
+  
 ![Screenshot 2024-07-01 151106](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/1f76eb5a-bc69-4229-ba62-975094f697e5)
 
 - Step 15 : To show channel wise orders, go to insert and insert pivot table in new sheet and then choose fields to add to report, add "Channel" field in row and "Order ID"(count of order) field in values and then go to pivot table analyze and insert pie pivot chart.
+  
 ![Screenshot 2024-07-01 170012](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/59c2526e-8dc5-47c6-b403-bf80b2bc9879)
-- Step 16 : Visual filters (Slicers) were added for two fields named "Month" and "Category". 
+
+- Step 16 : Visual filters (Slicers) were added for two fields named "Month" and "Category".
+  
 
  
  - Step 17 : The report was then published.
