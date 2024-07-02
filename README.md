@@ -60,7 +60,7 @@ Pivot table
  - Step 17 : The report was then published.
 
  
- # Report Snapshot (Power BI DESKTOP)
+ # Report Snapshot (Excel)
 
  
 ![Screenshot 2024-07-01 170715](https://github.com/Smitamane25/Ecommerce-Sales-Dashboard/assets/171058471/5bfbe2d7-62c2-4e91-8640-0ac3ae76665b)
